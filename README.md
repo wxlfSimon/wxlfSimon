@@ -1,5 +1,5 @@
 # 💫 About Me:
-class Yo:<br>    def __init__(self) -> None:<br>        self.Name = "Simon" <br>        <br><br>    def Dm(self) -> str:<br>        print("👋 Discord -> ._siim0n._")<br>    <br>  <br>class Dev:<br>    def Code(self):<br>        dev = {<br>            'Python '<br>            'Javascript '<br>            'C# '<br>            'Java '<br>        } <br>    <br>    def Web(self):<br>        dev = {<br>            'Php '<br>            'Js ' <br>            'Html '<br>            'Css '<br>       }
+class Yo:<br>    def __init__(self) -> None:<br>        self.Name = "Simon" <br>        <br><br>    def Dm(self) -> str:<br>        print("👋 Telegram -> Simon00100")<br>    <br>  <br>class Dev:<br>    def Code(self):<br>        dev = {<br>            'Python '<br>            'Javascript '<br>            'C# '<br>            'Java '<br>        } <br>    <br>    def Web(self):<br>        dev = {<br>            'Php '<br>            'Js ' <br>            'Html '<br>            'Css '<br>       }
 
 
 # 💻 Tech Stack:
